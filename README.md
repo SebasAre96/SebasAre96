@@ -42,7 +42,7 @@ Framework de automatización de APIs con REST Assured + BDD
 ✔️ Reportes con Allure  
 ✔️ Testing de endpoints reales  
 
-👉 https://github.com/SebasAre96/api-automation-framework
+👉 https://github.com/SebasAre96/ResstAssured
 
 ---
 
